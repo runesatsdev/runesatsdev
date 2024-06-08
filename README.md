@@ -11,8 +11,7 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a freelance full-stack web3 developer
-- 🔭 Past projects: [Blockchain-Overview](https://github.com/asseph/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects)
-- 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
+ 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
   - 5 months freelancing
     - Developed a microservice for OceanDAO that downloads files from IPFS and uploads them to Arweave via Bundlr.
