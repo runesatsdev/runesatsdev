@@ -1,6 +1,6 @@
 #### 📞 Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
-- ✍ Focusing on Blockchain (Solana, Bitcoin).
+- ✍ Focusing on Fullstack ann Blockchain (Solana, Bitcoin) Developement.
 - 🌱 Built several significant projects based on Bitcoin, Solana network. 
 - 💼 Now building Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
