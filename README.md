@@ -1,4 +1,10 @@
+#### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
+
 <p> 
+    <a href="mailto:davidkano.dk@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://x.com/sol_maxi_" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-00599c?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discordapp.com/users/367009301090402325" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/asseph_1994" target="_blank"><img alt="Telegram"
@@ -8,38 +14,35 @@
    
 </p>
 
-### 🎯 Skills
 
-#### ⌨ Programming Languages:
+#### ⌨ Pʀᴏɢʀᴀᴍᴍɪɴɢ Lᴀɴɢᴜᴀɢᴇꜱ:
 
 <p>
-    <a href="https://www.python.org" target="_blank"><img alt="Python"
-        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<!--    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
-        src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a> -->
-    <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin"
-        src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
-    <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust"
-        src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
     <a href="https://isocpp.org" target="_blank"><img alt="C++"
         src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust"
+        src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
+    <a href="https://www.gnu.org/software/go" target="_blank"><img alt="Go"
+        src="https://img.shields.io/badge/Go-4EAA25?style=for-the-badge&logo=go&logoColor=white"/></a>
+    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
+        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+    <a href="https://www.python.org" target="_blank"><img alt="Python"
+        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="https://jdk.java.net" target="_blank"><img alt="Java"
         src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash"
-        src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
+        src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin"
+        src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 </p>
     
-#### ⛓️ Web3 Tooling:
+#### ⛓️ Wᴇʙ3 Tᴏᴏʟɪɴɢ:
 
 <p>
-    <a href="https://web3py.readthedocs.io/en/stable" target="_blank"><img alt="Web3.py"
-        src="https://img.shields.io/badge/Web3.py-ef6830?style=for-the-badge&logo=web3py&logoColor=white"/></a>
+    <a href="https://web3py.readthedocs.io/en/stable" target="_blank"><img alt="Web3.js"
+        src="https://img.shields.io/badge/Web3.js-ef6830?style=for-the-badge&logo=web3.js&logoColor=white"/></a>
     <a href="https://ethers.org/" target="_blank"><img alt="ethers.js"
         src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
     <a href="https://thegraph.com/en" target="_blank"><img alt="The Graph"
@@ -64,15 +67,21 @@
         src="https://img.shields.io/badge/Tenderly-6837f1?style=for-the-badge&logo=tenderly&logoColor=white"/></a>  
 </p>
 
-#### 🎛️ Platforms and Frameworks:
+#### 🎛️ Pʟᴀᴛғᴏʀᴍꜱ ᴀɴᴅ Fʀᴀᴍᴇᴡᴏʀᴋꜱ:
     
 <p>
+    <a href="https://reactjs.org" target="_blank"><img alt="React.js"
+        src="https://img.shields.io/badge/React.js-339933?style=for-the-badge&logo=react&logoColor=white"/></a>
+    <a href="https://nextjs.org" target="_blank"><img alt="Next.js"
+        src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&logoColor=white"/></a>
     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
     <a href="https://nodejs.org" target="_blank"><img alt="Express"
         src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask"
         src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="https://anchor.org" target="_blank"><img alt="Anchor"
+        src="https://img.shields.io/badge/Anchor-339933?style=for-the-badge&logo=anchor&logoColor=white"/></a>
     <a href="https://developer.android.com/jetpack" target="_blank"><img alt="Android"
         src="https://img.shields.io/badge/Android Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
     <a href="https://openjfx.io" target="_blank"><img alt="JavaFX"
@@ -82,7 +91,7 @@
 </p>
     
     
-#### 🗃️ Package, dependency, and environment management:
+#### 🗃️ Pᴀᴄᴋᴀɢᴇ, ᴅᴇᴘᴇɴᴅᴇɴᴄʏ, ᴀɴᴅ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ:
 
 <p>
     <a href="https://www.docker.com" target="_blank"><img alt="Docker"
@@ -101,7 +110,7 @@
         src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 </p>
 
-#### 🔧 Dev Tooling:
+#### 🔧 Dᴇᴠ Tᴏᴏʟɪɴɢ:
 
 <p>
     <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code"
