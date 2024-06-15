@@ -1,4 +1,4 @@
-#### 📞 Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
+#### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
 - ✍ Focusing on Fullstack and Blockchain (Solana, Bitcoin) Developement.
 - 🌱 Built several significant projects based on Bitcoin, Solana network. 
