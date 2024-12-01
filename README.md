@@ -1,8 +1,8 @@
 #### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
-- ✍ Focusing on Fullstack and Web3 (Solana, Bitcoin) Developement.
-- 🌱 Built several significant projects based on Solana, Bitcoin network. 
-- 💼 Now building Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
+- ✍ Fᴏᴄᴜꜱɪɴɢ ᴏɴ Fᴜʟʟꜱᴛᴀᴄᴋ ᴀɴᴅ Wᴇʙ3 (Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ) Dᴇᴠᴇʟᴏᴘᴇᴍᴇɴᴛ.
+- 🌱 Bᴜɪʟᴛ ꜱᴇᴠᴇʀᴀʟ ꜱɪɢɴɪғɪᴄᴀɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ ʙᴀꜱᴇᴅ ᴏɴ Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ. 
+- 💼 Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ Tʀᴀᴅɪɴɢ Tᴏᴏʟꜱ ᴀɴᴅ ᴘᴜᴍᴘ.ꜱᴄɪᴇɴᴄᴇ ᴏɴ Sᴏʟᴀɴᴀ, Aʟꜱᴏ ᴡᴏʀᴋɪɴɢ ᴏɴ Bᴜɪʟᴅɪɴɢ Rᴜɴᴇ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ, Rᴀғғʟᴇ, Aᴜᴄᴛɪᴏɴ Tᴏᴏʟꜱ ᴏɴ Bɪᴛᴄᴏɪɴ.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
