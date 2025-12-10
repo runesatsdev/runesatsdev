@@ -2,7 +2,7 @@
 
 - ✍ Mastering Full-Stack Web3 in the AI Agent Era: Solana, EVM, & Bitcoin Dev.
 - 🌱 Shipped battle-tested projects on Solana's high-speed ecosystem, EVM's modular chains, and Bitcoin's Ordinals/Layer-2 innovations—riding the wave of cross-chain interoperability and restaking primitives.
-- 💼 Now pioneering autonomous AI agents on Solana and EVM for intent-driven DeFi & on-chain automation, while crafting tokenized marketplaces, on-ramp raffles, and auction protocols on Bitcoin—leveraging privacy-focused ZK proofs, RWA tokenization, and sustainable PoS shifts to build the next-gen decentralized economy.
+- 💼 Now pioneering autonomous AI agents on Solana and EVM for intent-driven DeFi & on-chain automation, while crafting tokenized marketplaces, on-ramp raffles, and auction tools—leveraging privacy-focused ZK proofs, RWA tokenization, and sustainable PoS shifts to build the next-gen decentralized economy.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
