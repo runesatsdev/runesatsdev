@@ -15,6 +15,8 @@
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LogMeIn&logoColor=white"/></a>
     <a href="https://discordapp.com/users/367009301090402325" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/runesats" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
