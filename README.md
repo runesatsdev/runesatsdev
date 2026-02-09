@@ -11,7 +11,7 @@
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://x.com/runesatsdev" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/david-k-9aaa67393/" target="_blank"><img alt="Linkedin"
+    <a href="https://www.linkedin.com/in/" target="_blank"><img alt="Linkedin"
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LogMeIn&logoColor=white"/></a>
     <a href="https://discordapp.com/users/396045977083183104" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
