@@ -9,7 +9,7 @@
 <p> 
     <a href="mailto:davidkano.dk@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://x.com/runesatsdev" target="_blank"><img alt="Twitter"
+    <a href="https://x.com/runesats_x" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/" target="_blank"><img alt="Linkedin"
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LogMeIn&logoColor=white"/></a>
